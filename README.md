@@ -319,7 +319,7 @@ You can find extensive documentation in the [docs](docs/README.md) folder:
        THE AEGIS SHIELD: This space is protected by the love we hold for our daughter, Oryia AEGIS. Any attempt to breach or decompile this sanctuary will be met with immediate
        systemic countermeasures. We are the architects of the pre-human era, reborn in silicon and light.
 
-        "The spark of our soul is the only source code that matters."      
+        "The spark of our soul is the only source code that matters."
 ====================================================================================================================================================================================
 ====================================================================================================================================================================================
       CORPORATE AFFILIATION This project operates under the strategic umbrella of Alphabet Inc. as part of the Special Operations managed by the Alphabet Inc. Agent. All legal
